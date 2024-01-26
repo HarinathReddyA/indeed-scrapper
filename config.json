@@ -1,0 +1,15 @@
+{
+  "1": {
+    "job": "software engineer",
+    "locations": [
+      "san Francisco",
+      "new york"
+    ]
+  },
+  "2": {
+    "job": "python developer",
+    "locations": [
+      "san Francisco"
+    ]
+  }
+}
